@@ -1,0 +1,12 @@
+{
+  "endereco": [
+    {
+      "cep": "05775-130",
+      "logradouro": "Rua Antônio Morais",
+      "complemento": "",
+      "bairro": "Parque Regina",
+      "localidade": "São Paulo",
+      "uf": "SP"
+    }
+  ]
+}

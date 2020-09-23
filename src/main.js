@@ -12,14 +12,14 @@ const showData = (result)=>{
 
 
 cep.addEventListener("blur",(e)=>{
-    let search = cep.value.replace("-","")
+    cep.value.replace("-","")
     const options = {
         method: 'GET',
         mode: 'cors',
         cache: 'default'
     }
 
-    fetch(`https://viacep.com.br/ws/${search}/json/`, options)
+    fetch(`https://viacep.com.br/ws/05775130/json/`, options)
     .then(response =>{ response.json()
         .then( data => showData(data))
     })
