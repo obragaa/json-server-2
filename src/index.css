@@ -1,0 +1,19 @@
+#h1-cep{
+    font-weight: 900;
+}
+
+.container{
+    background-color: cornflowerblue;
+    justify-content: center;
+    width: 30%;
+    height: 100%;
+}
+
+.form-group{
+    width:80%;
+    justify-content: center;
+}
+
+.form-control{
+    width: 124%;
+}
