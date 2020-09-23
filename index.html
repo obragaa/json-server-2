@@ -8,9 +8,12 @@
     <link rel="stylesheet" href="./src/index.css">
 </head>
 <body>
+
+    <img src="https://paulacasimiro.adv.br/wp-content/uploads/2015/06/google-location-icon-16.png" alt="" width="220px" height="220px" id="img-icon">
+
     <div class="container">
-        <h1>Consultando CEP</h1>
-        <form>
+        <h1 id="h1-cep">CEP Location</h1>
+        <section>
             <div class="form-group">
                 <label for="cep">CEP</label>
                 <input type="text" class="form-control" maxlength="9" id="cep">
@@ -36,8 +39,13 @@
                 <input type="text" class="form-control" id="uf">
                 <small>Estado</small>
             </div>
-        </form>
+
+            <form method="DELETE" id="button-form">
+                <button type="submit">Excluir</button>
+            </form>
+        </section>
     </div>
+
     <script src="./src/main.js"></script>
 </body>
 </html>

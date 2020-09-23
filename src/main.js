@@ -10,16 +10,15 @@ const showData = (result)=>{
 
 
 
-
 cep.addEventListener("blur",(e)=>{
-    cep.value.replace("-","")
+    let search = cep.value.replace("-","")
     const options = {
         method: 'GET',
         mode: 'cors',
         cache: 'default'
     }
 
-    fetch(`https://viacep.com.br/ws/05775130/json/`, options)
+    fetch(`https://viacep.com.br/ws/${search}/json/`, options)
     .then(response =>{ response.json()
         .then( data => showData(data))
     })

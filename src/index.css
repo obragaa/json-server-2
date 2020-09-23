@@ -1,19 +1,58 @@
 #h1-cep{
-    font-weight: 900;
+    font-weight: 700;
+    text-align: center;
+}
+
+#button-form{
+    padding-bottom: 30px;
+}
+
+#img-icon{
+    margin-top: 0px;
+    margin-left: 0px;
+    justify-content: none;
+    margin-right: 70px;
 }
 
 .container{
-    background-color: cornflowerblue;
-    justify-content: center;
     width: 30%;
     height: 100%;
+    margin: 0%;
 }
 
 .form-group{
     width:80%;
     justify-content: center;
+    font-family: OCR A Std, monospace;
+    font-weight: 900;
 }
 
 .form-control{
     width: 124%;
+    box-shadow: 1px 3px 2px 2px rgba(36, 36, 36, 0.13); 
+}
+
+body{
+    background-color: #EEE;
+    margin: 0%;
+    padding: 0%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 80%;
+    background-image: url(../img/background.jpg);
+}
+
+button{
+    color: #000000;
+    background-image: linear-gradient(to bottom, #b3b3b3,#bbbbbb);
+    border-radius: 20%;
+    margin-left: 42%;
+    font-weight: 500;
+}
+
+button:hover{
+    background-image: linear-gradient(to bottom, #bbbbbb, #b3b3b3);
+    transform: translate3d(0, 3px, 0);
+    transition: 0.5s all ease;
 }
