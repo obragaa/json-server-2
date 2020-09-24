@@ -1,84 +1,84 @@
 {
-  "endereco": [
+  "fakeapi": [
     {
-      "cep": "05775-130",
+      "id": "05775130",
       "logradouro": "Rua Antônio Morais",
       "complemento": "",
       "bairro": "Parque Regina",
       "localidade": "São Paulo",
       "uf": "SP"
+    },
+    {
+      "id": "27274-510",
+      "logradouro": "Avenida Tadeu",
+      "complemento": "",
+      "bairro": "Retiro",
+      "localidade": "Volta Redonda",
+      "uf": "RJ"
+    },
+    {
+      "id": "24325-240",
+      "logradouro": "Rua Espanha",
+      "complemento": "",
+      "bairro": "Maria Paula",
+      "localidade": "Niterói",
+      "uf": "RJ"
+    },
+    {
+      "id": "84065-110",
+      "logradouro": "Rua do Mecânico",
+      "complemento": "",
+      "bairro": "Piriquitos",
+      "localidade": "Ponta Grossa",
+      "uf": "PR"
+    },
+    {
+      "id": "13348-710",
+      "logradouro": "Rua Dez",
+      "complemento": "",
+      "bairro": "Jardins do Império",
+      "localidade": "Indaiatuba",
+      "uf": "SP"
+    },
+    {
+      "id": "11320-145",
+      "logradouro": "Viela Pero Correa",
+      "complemento": "",
+      "bairro": "Itararé",
+      "localidade": "São Vicente",
+      "uf": "SP"
+    },
+    {
+      "id": "06870-172",
+      "logradouro": "Estrada Oswaldo Ducceshi",
+      "complemento": "",
+      "bairro": "Engenho",
+      "localidade": "Itapecerica da Serra",
+      "uf": "SP"
+    },
+    {
+      "id": "88056-608",
+      "logradouro": "Rua Jardim Giselle",
+      "complemento": "",
+      "bairro": "Cachoeira do Bom Jesus",
+      "localidade": "Florianópolis",
+      "uf": "SC"
+    },
+    {
+      "id": "72236-011",
+      "logradouro": "QNP 30 Conjunto K",
+      "complemento": "",
+      "bairro": "Ceilândia Sul (Ceilândia)",
+      "localidade": "Brasília",
+      "uf": "DF"
+    },
+    {
+      "id": "77433-482",
+      "logradouro": "Avenida Perimetral Sul",
+      "complemento": "",
+      "bairro": "Jardim Tropical",
+      "localidade": "Gurupi",
+      "uf": "TO"
     }
-    {
-  "cep": "27274-510",
-  "logradouro": "Avenida Tadeu",
-  "complemento": "",
-  "bairro": "Retiro",
-  "localidade": "Volta Redonda",
-  "uf": "RJ"
-}
-    {
-  "cep": "24325-240",
-  "logradouro": "Rua Espanha",
-  "complemento": "",
-  "bairro": "Maria Paula",
-  "localidade": "Niterói",
-  "uf": "RJ"
-}
-    {
-  "cep": "84065-110",
-  "logradouro": "Rua do Mecânico",
-  "complemento": "",
-  "bairro": "Piriquitos",
-  "localidade": "Ponta Grossa",
-  "uf": "PR"
-}
-    {
-  "cep": "13348-710",
-  "logradouro": "Rua Dez",
-  "complemento": "",
-  "bairro": "Jardins do Império",
-  "localidade": "Indaiatuba",
-  "uf": "SP"
-}
-    {
-  "cep": "11320-145",
-  "logradouro": "Viela Pero Correa",
-  "complemento": "",
-  "bairro": "Itararé",
-  "localidade": "São Vicente",
-  "uf": "SP"
-}
-    {
-  "cep": "06870-172",
-  "logradouro": "Estrada Oswaldo Ducceshi",
-  "complemento": "",
-  "bairro": "Engenho",
-  "localidade": "Itapecerica da Serra",
-  "uf": "SP"
-}
-    {
-  "cep": "88056-608",
-  "logradouro": "Rua Jardim Giselle",
-  "complemento": "",
-  "bairro": "Cachoeira do Bom Jesus",
-  "localidade": "Florianópolis",
-  "uf": "SC"
-}
-    {
-  "cep": "72236-011",
-  "logradouro": "QNP 30 Conjunto K",
-  "complemento": "",
-  "bairro": "Ceilândia Sul (Ceilândia)",
-  "localidade": "Brasília",
-  "uf": "DF"
-}
-    {
-  "cep": "77433-482",
-  "logradouro": "Avenida Perimetral Sul",
-  "complemento": "",
-  "bairro": "Jardim Tropical",
-  "localidade": "Gurupi",
-  "uf": "TO"
-}
   ]
 }
